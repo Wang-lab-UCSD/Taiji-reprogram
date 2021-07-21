@@ -1,0 +1,89 @@
+count rank.sum genes file
+2 3 TBX5, GATA4 recipe_R.emb.skin.fibroblast_to_E.adt.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+2 3 TBX5, GATA4 recipe_R.emb.skin.fibroblast_to_R.adt.right.cardiac.atrium_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+2 4 TBX5, GATA4 recipe_R.emb.skin.fibroblast_to_E.adt.right.atrium.auricular.region_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+2 7 GATA4, TBX5 recipe_R.emb.skin.fibroblast_to_E.emb.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+2 9 GATA4, MEF2C recipe_E.adt.GM23248_to_E.emb.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+2 9 GATA4, TBX5 recipe_R.emb.skin.fibroblast_to_E.emb.cardiac.muscle.cell_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+2 9 GATA4, TBX5 recipe_R.emb.skin.fibroblast_to_R.adt.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+2 9 GATA4, TBX5 recipe_R.emb.skin.fibroblast_to_R.adt.heart.right.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_E.adt.GM23248_to_E.adt.right.atrium.auricular.region_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_E.adt.GM23248_to_R.chd.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 TBX5 recipe_E.adt.fibroblast.of.dermis_to_E.adt.right.atrium.auricular.region_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_E.adt.fibroblast.of.dermis_to_R.adt.heart.right.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_E.adt.fibroblast.of.dermis_to_R.emb.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_E.emb.AG04450_to_E.adt.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_E.emb.AG04450_to_E.emb.cardiac.muscle.cell_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_E.emb.AG04450_to_R.adt.heart.right.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_E.emb.AG04450_to_R.chd.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_R.emb.IMR.90_to_R.adt.heart.right.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_R.emb.fibroblast.of.skin.of.abdomen_to_E.emb.cardiac.muscle.cell_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_R.emb.fibroblast.of.skin.of.abdomen_to_R.adt.heart.right.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_R.emb.fibroblast.of.skin.of.abdomen_to_R.chd.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_R.emb.fibroblast.of.skin.of.abdomen_to_R.emb.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_R.emb.skin.fibroblast_to_R.chd.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_R.emb.skin.fibroblast_to_R.emb.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_R.nbn.foreskin.fibroblast_to_E.adt.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_R.nbn.foreskin.fibroblast_to_E.adt.right.atrium.auricular.region_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_R.nbn.foreskin.fibroblast_to_E.emb.cardiac.muscle.cell_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_R.nbn.foreskin.fibroblast_to_E.emb.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_R.nbn.foreskin.fibroblast_to_R.adt.heart.right.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_R.nbn.foreskin.fibroblast_to_R.adt.right.cardiac.atrium_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_R.nbn.foreskin.fibroblast_to_R.chd.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 1 GATA4 recipe_R.nbn.foreskin.fibroblast_to_R.emb.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 2 GATA4 recipe_E.adt.GM23248_to_E.emb.cardiac.muscle.cell_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 2 GATA4 recipe_E.adt.GM23248_to_R.adt.heart.right.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 2 GATA4 recipe_E.adt.GM23248_to_R.adt.right.cardiac.atrium_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 2 GATA4 recipe_E.adt.fibroblast.of.dermis_to_E.emb.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 2 GATA4 recipe_E.adt.fibroblast.of.lung_to_E.emb.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 2 GATA4 recipe_E.adt.fibroblast.of.lung_to_R.adt.heart.right.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 2 GATA4 recipe_E.adt.fibroblast.of.lung_to_R.emb.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 2 GATA4 recipe_E.emb.AG04450_to_E.emb.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 2 GATA4 recipe_E.emb.AG04450_to_R.adt.right.cardiac.atrium_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 2 GATA4 recipe_E.emb.AG04450_to_R.emb.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 2 GATA4 recipe_R.emb.fibroblast.of.skin.of.abdomen_to_E.emb.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 2 GATA4 recipe_R.emb.fibroblast.of.skin.of.abdomen_to_R.adt.right.cardiac.atrium_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 2 GATA4 recipe_R.emb.skin.fibroblast_to_E.adt.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 2 GATA4 recipe_R.nbn.foreskin.fibroblast_to_E.adt.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 2 GATA4 recipe_R.nbn.foreskin.fibroblast_to_R.adt.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 3 GATA4 recipe_E.adt.GM23248_to_R.emb.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 3 GATA4 recipe_E.adt.fibroblast.of.dermis_to_E.emb.cardiac.muscle.cell_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 3 GATA4 recipe_E.adt.fibroblast.of.lung_to_E.emb.cardiac.muscle.cell_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 3 GATA4 recipe_E.emb.AG04450_to_E.adt.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 3 GATA4 recipe_E.emb.AG04450_to_E.adt.right.atrium.auricular.region_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 3 GATA4 recipe_E.emb.AG04450_to_R.adt.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 3 GATA4 recipe_R.emb.IMR.90_to_E.emb.cardiac.muscle.cell_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 3 GATA4 recipe_R.emb.IMR.90_to_E.emb.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 3 GATA4 recipe_R.emb.IMR.90_to_R.emb.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 4 GATA4 recipe_R.emb.fibroblast.of.skin.of.abdomen_to_R.adt.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 5 GATA4 recipe_R.emb.IMR.90_to_R.adt.right.cardiac.atrium_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 7 GATA4 recipe_E.adt.fibroblast.of.dermis_to_R.adt.right.cardiac.atrium_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 7 TBX5 recipe_R.emb.IMR.90_to_E.adt.right.atrium.auricular.region_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+1 8 GATA4 recipe_R.emb.IMR.90_to_R.chd.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_E.adt.GM23248_to_E.adt.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_E.adt.GM23248_to_E.adt.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_E.adt.GM23248_to_R.adt.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_E.adt.GM23248_to_R.chd.heart.right.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_E.adt.fibroblast.of.dermis_to_E.adt.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_E.adt.fibroblast.of.dermis_to_E.adt.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_E.adt.fibroblast.of.dermis_to_R.adt.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_E.adt.fibroblast.of.dermis_to_R.chd.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_E.adt.fibroblast.of.dermis_to_R.chd.heart.right.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_E.adt.fibroblast.of.lung_to_E.adt.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_E.adt.fibroblast.of.lung_to_E.adt.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_E.adt.fibroblast.of.lung_to_E.adt.right.atrium.auricular.region_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_E.adt.fibroblast.of.lung_to_R.adt.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_E.adt.fibroblast.of.lung_to_R.adt.right.cardiac.atrium_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_E.adt.fibroblast.of.lung_to_R.chd.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_E.adt.fibroblast.of.lung_to_R.chd.heart.right.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_E.emb.AG04450_to_R.chd.heart.right.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_R.emb.IMR.90_to_E.adt.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_R.emb.IMR.90_to_E.adt.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_R.emb.IMR.90_to_R.adt.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_R.emb.IMR.90_to_R.chd.heart.right.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_R.emb.fibroblast.of.skin.of.abdomen_to_E.adt.heart.left.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_R.emb.fibroblast.of.skin.of.abdomen_to_E.adt.heart_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_R.emb.fibroblast.of.skin.of.abdomen_to_E.adt.right.atrium.auricular.region_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_R.emb.fibroblast.of.skin.of.abdomen_to_R.chd.heart.right.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_R.emb.skin.fibroblast_to_R.chd.heart.right.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
+0 0  recipe_R.nbn.foreskin.fibroblast_to_R.chd.heart.right.ventricle_prod_ratio.abs_rank_20_p_0.001_size_3.txt
